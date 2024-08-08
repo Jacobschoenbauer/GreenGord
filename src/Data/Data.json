@@ -5,8 +5,8 @@
     },
  "contactLogo":{
     "contactPC":[
-        {"index":"pce","hrefPC":"mailto:","title":"Email", "alt":"Email us","src":"./pic/emaillogo.JPG"},
-        {"index":"pcp","hrefPC":"tel:","title":"Phone", "alt":"Call Us","src":"./pic/phonelogo.JPG"}
+        {"index":"pce","hrefPC":"mailto:mickschls@gmail.com","title":"Email", "alt":"Email us","src":"./pic/emaillogo.JPG"},
+        {"index":"pcp","hrefPC":"tel:612-258-8908","title":"Phone", "alt":"Call Us","src":"./pic/phonelogo.JPG"}
         
     ],
     "contactMobil":[
@@ -17,7 +17,7 @@
 },
 "home":{
     "title": "Green Bay Gordy",
-    "about": ""
+    "about": "If you are seeing this it is party time !!!!!"
     
     
 
@@ -25,10 +25,7 @@
 "logo":[
     {"title":"Amazing Crafts", "alt":"Inglewood Design","src":"./pic/gordylogo.png"}
 ],
-"socialMedia":[
-    {"href":"https://www.facebook.com/search/top?q=inglewood%20designs","title":"change me", "alt":"Great Facebook","src":"./pic/facebooklogo.JPG"}
-   
-   ],
+
    
     "items":[
        {
@@ -55,97 +52,29 @@
        "linkThree":"https://www.youtube.com/watch?v=E1o3cbLYoIY" 
        },
        {
-        "product1":"Ex",
-        "alt":"???",
+        "product1":"5 O'Clock Somewhere",
+        "alt":"5 O'Clock Somewhere",
         "src":"./pic/musicbutton.png",
-        "titleOne":"1",
-        "idOne":"",
-        "aboutServiceOne":"For Info",
-        "linkOne":"https://www.youtube.com/watch?v=fnlJw9H0xAM",
-        "product2": "Ex2",
-        "altTwo":"???",
-        "idTwo":"",
+        "titleOne":"4",
+        "idOne":"5 O'Clock Somewhere",
+        "aboutServiceOne":"Song 4",
+        "linkOne":"https://www.youtube.com/watch?v=BPCjC543llU",
+        "product2": "Margaritaville Alan Jackson Jimmy Buffett",
+        "altTwo":"Margaritaville Alan Jackson Jimmy Buffett",
+        "idTwo":"Margaritaville Alan Jackson Jimmy Buffett",
         "srcTwo":"./pic/musicbutton.png",
-        "titleTwo":"1",
-        "aboutServiceTwo":"Info Here",
-        "linkTwo":"/itemTwo",
-        "product3":"Ex3",
-        "idThree":"",
-        "altThree":"???",
+        "titleTwo":"5",
+        "aboutServiceTwo":"Song 5",
+        "linkTwo":"https://www.youtube.com/watch?v=v4XtBiWgXLE",
+        "product3":"Piano Man Billy Joe",
+        "idThree":"Piano Man Billy Joe",
+        "altThree":"Piano Man Billy Joe",
         "srcThree":"./pic/musicbutton.png",
-        "titleThree":"1",
-        "aboutServiceThree":"Info Here",
-        "linkThree":"/itemThree" 
-        },
-        {
-            "product1":"Ex",
-            "alt":"???",
-            "src":"./pic/musicbutton.png",
-            "titleOne":"1",
-            "idOne":"",
-            "aboutServiceOne":"For Info",
-            "linkOne":"https://www.youtube.com/watch?v=fnlJw9H0xAM",
-            "product2": "Ex2",
-            "altTwo":"???",
-            "idTwo":"",
-            "srcTwo":"./pic/musicbutton.png",
-            "titleTwo":"1",
-            "aboutServiceTwo":"Info Here",
-            "linkTwo":"/itemTwo",
-            "product3":"Ex3",
-            "idThree":"",
-            "altThree":"???",
-            "srcThree":"./pic/musicbutton.png",
-            "titleThree":"1",
-            "aboutServiceThree":"Info Here",
-            "linkThree":"/itemThree" 
-            },
-            {
-                "product1":"Ex",
-                "alt":"???",
-                "src":"./pic/musicbutton.png",
-                "titleOne":"1",
-                "idOne":"",
-                "aboutServiceOne":"For Info",
-                "linkOne":"https://www.youtube.com/watch?v=fnlJw9H0xAM",
-                "product2": "Ex2",
-                "altTwo":"???",
-                "idTwo":"",
-                "srcTwo":"./pic/musicbutton.png",
-                "titleTwo":"1",
-                "aboutServiceTwo":"Info Here",
-                "linkTwo":"/itemTwo",
-                "product3":"Ex3",
-                "idThree":"",
-                "altThree":"???",
-                "srcThree":"./pic/musicbutton.png",
-                "titleThree":"1",
-                "aboutServiceThree":"Info Here",
-                "linkThree":"/itemThree" 
-                },
-                {
-                    "product1":"Ex",
-                    "alt":"???",
-                    "src":"./pic/musicbutton.png",
-                    "titleOne":"1",
-                    "idOne":"",
-                    "aboutServiceOne":"For Info",
-                    "linkOne":"https://www.youtube.com/watch?v=fnlJw9H0xAM",
-                    "product2": "Ex2",
-                    "altTwo":"???",
-                    "idTwo":"",
-                    "srcTwo":"./pic/musicbutton.png",
-                    "titleTwo":"1",
-                    "aboutServiceTwo":"Info Here",
-                    "linkTwo":"/itemTwo",
-                    "product3":"Ex3",
-                    "idThree":"",
-                    "altThree":"???",
-                    "srcThree":"./pic/musicbutton.png",
-                    "titleThree":"1",
-                    "aboutServiceThree":"Info Here",
-                    "linkThree":"/itemThree" 
-                    }
+        "titleThree":"6",
+        "aboutServiceThree":"Song 6",
+        "linkThree":"https://www.youtube.com/watch?v=gxEPV4kolz0" 
+        }
+       
 
     ]
     }

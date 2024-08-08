@@ -1,10 +1,6 @@
 import React, { Component } from "react";
 import data from "../Data/Data.json";
-const socialMedia = data.socialMedia.map(({ href, title, alt, src }, index) => (
-  <a key={index} className="media-footer" href={href}>
-    <img title={title} className="footer-social-media" src={src} alt={alt} />
-  </a>
-));
+
 const logo = data.logo.map(({ title, alt, src }, index) => (
   <img key={index} title={title} className="logo-footer" src={src} alt={alt} />
 ));
@@ -23,7 +19,7 @@ export default class Footer extends Component {
             <div className="word-location font-footer">Location</div>
             <div className="location-footer font-footer">{location}</div>
           </section>
-          <div className="footer-links">{socialMedia}</div>
+          
         </div>
         <section className="my-footer">
           <p className="bottom-footer">Web page designed by</p>
