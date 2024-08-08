@@ -1,0 +1,157 @@
+{
+    "general":{
+        "title": "Green Bay Gordy",
+        "location":"Lakeville MN"
+    },
+ "contactLogo":{
+    "contactPC":[
+        {"index":"pce","hrefPC":"mailto:","title":"Email", "alt":"Email us","src":"./pic/emaillogo.JPG"},
+        {"index":"pcp","hrefPC":"tel:","title":"Phone", "alt":"Call Us","src":"./pic/phonelogo.JPG"}
+        
+    ],
+    "contactMobil":[
+        { "index":"mobile","hrefMobil":"#email","title":"Email", "alt":"Email us","src":"./pic/emaillogo.JPG"},
+        { "index":"mobilp","hrefMobil":"#phone","title":"Phone", "alt":"Call Us","src":"./pic/phonelogo.JPG"}
+        
+    ]
+},
+"home":{
+    "title": "Green Bay Gordy",
+    "about": ""
+    
+    
+
+},
+"logo":[
+    {"title":"Amazing Crafts", "alt":"Inglewood Design","src":"./pic/gordylogo.png"}
+],
+"socialMedia":[
+    {"href":"https://www.facebook.com/search/top?q=inglewood%20designs","title":"change me", "alt":"Great Facebook","src":"./pic/facebooklogo.JPG"}
+   
+   ],
+   
+    "items":[
+       {
+       "product1":"Frankie Yankovic:  Roll out the Barrel",
+       "alt":"Polka",
+       "src":"./pic/musicbutton.png",
+       "titleOne":"1",
+       "idOne":"",
+       "aboutServiceOne":"Song 1",
+       "linkOne":"https://www.youtube.com/watch?v=fk7AeAk7Um8",
+       "product2": "Reach out and Touch a Hand  :Oak Ridge Boys",
+       "altTwo":"Reach out and Touch a Hand  :Oak Ridge Boys",
+       "idTwo":"Reach out and Touch a Hand  :Oak Ridge Boys",
+       "srcTwo":"./pic/musicbutton.png",
+       "titleTwo":"2",
+       "aboutServiceTwo":"Song 2",
+       "linkTwo":"https://www.youtube.com/watch?v=F0ijhgHI_ms",
+       "product3":"Twist Again Like we Did  Last Summer  Chubby Checker",
+       "idThree":"Twist Again Like we Did  Last Summer  Chubby Checker",
+       "altThree":"Twist Again Like we Did  Last Summer  Chubby Checker",
+       "srcThree":"./pic/musicbutton.png",
+       "titleThree":"3",
+       "aboutServiceThree":"Song 3",
+       "linkThree":"https://www.youtube.com/watch?v=E1o3cbLYoIY" 
+       },
+       {
+        "product1":"Ex",
+        "alt":"???",
+        "src":"./pic/musicbutton.png",
+        "titleOne":"1",
+        "idOne":"",
+        "aboutServiceOne":"For Info",
+        "linkOne":"https://www.youtube.com/watch?v=fnlJw9H0xAM",
+        "product2": "Ex2",
+        "altTwo":"???",
+        "idTwo":"",
+        "srcTwo":"./pic/musicbutton.png",
+        "titleTwo":"1",
+        "aboutServiceTwo":"Info Here",
+        "linkTwo":"/itemTwo",
+        "product3":"Ex3",
+        "idThree":"",
+        "altThree":"???",
+        "srcThree":"./pic/musicbutton.png",
+        "titleThree":"1",
+        "aboutServiceThree":"Info Here",
+        "linkThree":"/itemThree" 
+        },
+        {
+            "product1":"Ex",
+            "alt":"???",
+            "src":"./pic/musicbutton.png",
+            "titleOne":"1",
+            "idOne":"",
+            "aboutServiceOne":"For Info",
+            "linkOne":"https://www.youtube.com/watch?v=fnlJw9H0xAM",
+            "product2": "Ex2",
+            "altTwo":"???",
+            "idTwo":"",
+            "srcTwo":"./pic/musicbutton.png",
+            "titleTwo":"1",
+            "aboutServiceTwo":"Info Here",
+            "linkTwo":"/itemTwo",
+            "product3":"Ex3",
+            "idThree":"",
+            "altThree":"???",
+            "srcThree":"./pic/musicbutton.png",
+            "titleThree":"1",
+            "aboutServiceThree":"Info Here",
+            "linkThree":"/itemThree" 
+            },
+            {
+                "product1":"Ex",
+                "alt":"???",
+                "src":"./pic/musicbutton.png",
+                "titleOne":"1",
+                "idOne":"",
+                "aboutServiceOne":"For Info",
+                "linkOne":"https://www.youtube.com/watch?v=fnlJw9H0xAM",
+                "product2": "Ex2",
+                "altTwo":"???",
+                "idTwo":"",
+                "srcTwo":"./pic/musicbutton.png",
+                "titleTwo":"1",
+                "aboutServiceTwo":"Info Here",
+                "linkTwo":"/itemTwo",
+                "product3":"Ex3",
+                "idThree":"",
+                "altThree":"???",
+                "srcThree":"./pic/musicbutton.png",
+                "titleThree":"1",
+                "aboutServiceThree":"Info Here",
+                "linkThree":"/itemThree" 
+                },
+                {
+                    "product1":"Ex",
+                    "alt":"???",
+                    "src":"./pic/musicbutton.png",
+                    "titleOne":"1",
+                    "idOne":"",
+                    "aboutServiceOne":"For Info",
+                    "linkOne":"https://www.youtube.com/watch?v=fnlJw9H0xAM",
+                    "product2": "Ex2",
+                    "altTwo":"???",
+                    "idTwo":"",
+                    "srcTwo":"./pic/musicbutton.png",
+                    "titleTwo":"1",
+                    "aboutServiceTwo":"Info Here",
+                    "linkTwo":"/itemTwo",
+                    "product3":"Ex3",
+                    "idThree":"",
+                    "altThree":"???",
+                    "srcThree":"./pic/musicbutton.png",
+                    "titleThree":"1",
+                    "aboutServiceThree":"Info Here",
+                    "linkThree":"/itemThree" 
+                    }
+
+    ]
+    }
+    
+  
+    
+    
+    
+ 

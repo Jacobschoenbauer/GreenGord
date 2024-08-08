@@ -1,0 +1,221 @@
+/* APP */
+.app-main {
+  background-color: #efecec;
+}
+
+/* Nav */
+.nav-main {
+  background-color: #2c332f;
+}
+.navTitle {
+  color: #7c7c7a;
+  font-size: 80%;
+}
+.holder{
+  font-size: 80%;
+}
+.nav-flex {
+  background-color: #2c332f;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  z-index: 300;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.contactPhone {
+  display: flex;
+}
+.nav-contact {
+  height: 40px;
+  margin: 0 25px 0 0;
+  border-radius: 50%;
+}
+.phone-email-search {
+  display: flex;
+  align-items: center;
+}
+.dropbtn {
+  background-color: #2c332f;
+  color: white;
+  border-radius: 10px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: flex;
+  justify-content: right;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 16px 8px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content .link {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content .link:hover {
+  background-color: #f1f1f1;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+  margin: 35px 0 0 0;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: #131413;
+}
+.hamCss {
+  height: 30px;
+  width: 30px;
+}
+.contactPc {
+  display: none;
+}
+/* Home */
+.home-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.home-logo {
+  height: 70%;
+  width: 70%;
+  margin: 20px;
+}
+.buttonHome{
+  margin: 30px;
+}
+.home-link{
+  color: #efecec;
+}
+.home-logo-container {
+  text-align: center;
+}
+.home-nav {
+  display: flex;
+  width: 50%;
+  justify-content: space-evenly;
+}
+.home-about {
+  width: 75%;
+  text-align: center;
+}
+.home-item-main{
+  text-align: center;
+}
+.item-pic-about{
+  height: 40%;
+  width: 40%;
+}
+/* Footer */
+.footer {
+  background-color:#263339;
+}
+.font-footer{
+  
+  color: #efe9e9 
+  
+}
+.footer-social-media{
+  height: 30%;
+  width: 30%;
+  border-radius: 20%;
+}
+.footer-grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-items: center;
+  align-items: center;
+  padding: 20px
+}
+.faceBook {
+  border-radius: 10%;
+  width: 60%;
+}
+.footer-links {
+  display: flex;
+  justify-content: center;
+}
+.media-footer {
+  text-align: center;
+  width: 30%;
+  height: 30%;
+}
+.logo-footer {
+  height: 50%;
+  width: 50%;
+  border-radius: 10%;
+}
+.title-footer {
+  font-size: 70%;
+}
+.footer-image-logo {
+  text-align: center;
+  
+}
+.word-location {
+  font-size: 80%;
+}
+.location-footer {
+  font-size: 70%;
+}
+.my-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #efe9e9 !important;
+    margin: 3px;
+    font-size: 60%;
+}
+
+.find-footer {
+  margin: 0 0 0 10px;
+  color: #efe9e9 !important;
+}
+
+
+@media screen and (max-width: 950px) {
+  /* Nav */
+  .contactPc {
+    display: contents;
+  }
+  .contactPhone {
+    display: none;
+  }
+  .nav-contact{
+    height: 30px;
+    width: 30px;
+
+  }
+  /* Footer */
+  .footer-grid {
+    padding: 10px;
+  }
+  .face{
+    height: 80%;
+    width: 80%;
+    margin: 5px;
+  }
+}
