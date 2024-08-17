@@ -15,21 +15,8 @@ const item = data.items.map(
       title,
       alt,
       src,
-      linkOne,
-      product2,
-      idTwo,
-      titleTwo,
-      altTwo,
-      srcTwo,
-      aboutServiceTwo,
-      linkTwo,
-      product3,
-      altThree,
-      idThree,
-      titleThree,
-      srcThree,
-      aboutServiceThree,
-      linkThree,
+      linkOne
+     
     },
     index
   ) => (
@@ -42,27 +29,7 @@ const item = data.items.map(
           </Link>
           <div>{aboutServiceOne}</div>
         </section>
-        <section className="buttonHome">
-          <div>{product2}</div>
-          <Link id={idTwo} className="" to={linkTwo}>
-            <img title={titleTwo} className="item-pic-about" src={srcTwo} alt={altTwo} />
-          </Link>
-          <div>{aboutServiceTwo}</div>
-        </section>
-        <section className="buttonHome">
-          <div>{product3}</div>
-          <Link id={idThree} className="" to={linkThree}>
-            <img
-              title={titleThree}
-              className="item-pic-about"
-              src={srcThree}
-              alt={altThree}
-            />
-          </Link>
-          <div>{aboutServiceThree}</div>
-        </section>
-        
-      </div>
+</div>
     </div>
   )
 );

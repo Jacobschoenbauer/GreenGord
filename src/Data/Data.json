@@ -23,57 +23,147 @@
 
 },
 "logo":[
-    {"title":"Amazing Crafts", "alt":"Inglewood Design","src":"./pic/gordylogo.png"}
+    {"title":"Party play List", "alt":"Gordy Play List","src":"./pic/gordylogo.png"}
 ],
 
    
     "items":[
        {
-       "product1":"Frankie Yankovic:  Roll out the Barrel",
-       "alt":"Polka",
+       "product1":"The Twist",
+       "alt":"The Twist",
        "src":"./pic/musicbutton.png",
        "titleOne":"1",
        "idOne":"",
        "aboutServiceOne":"Song 1",
-       "linkOne":"https://www.youtube.com/watch?v=fk7AeAk7Um8",
-       "product2": "Reach out and Touch a Hand  :Oak Ridge Boys",
-       "altTwo":"Reach out and Touch a Hand  :Oak Ridge Boys",
-       "idTwo":"Reach out and Touch a Hand  :Oak Ridge Boys",
-       "srcTwo":"./pic/musicbutton.png",
-       "titleTwo":"2",
-       "aboutServiceTwo":"Song 2",
-       "linkTwo":"https://www.youtube.com/watch?v=F0ijhgHI_ms",
-       "product3":"Twist Again Like we Did  Last Summer  Chubby Checker",
-       "idThree":"Twist Again Like we Did  Last Summer  Chubby Checker",
-       "altThree":"Twist Again Like we Did  Last Summer  Chubby Checker",
-       "srcThree":"./pic/musicbutton.png",
-       "titleThree":"3",
-       "aboutServiceThree":"Song 3",
-       "linkThree":"https://www.youtube.com/watch?v=E1o3cbLYoIY" 
+       "linkOne":"https://www.youtube.com/watch?v=b829JO7JKPo"
        },
        {
-        "product1":"5 O'Clock Somewhere",
-        "alt":"5 O'Clock Somewhere",
+        "product1":"Twistin the night away",
+        "alt":"Twistin the night away",
         "src":"./pic/musicbutton.png",
-        "titleOne":"4",
-        "idOne":"5 O'Clock Somewhere",
-        "aboutServiceOne":"Song 4",
-        "linkOne":"https://www.youtube.com/watch?v=BPCjC543llU",
-        "product2": "Margaritaville Alan Jackson Jimmy Buffett",
-        "altTwo":"Margaritaville Alan Jackson Jimmy Buffett",
-        "idTwo":"Margaritaville Alan Jackson Jimmy Buffett",
-        "srcTwo":"./pic/musicbutton.png",
-        "titleTwo":"5",
-        "aboutServiceTwo":"Song 5",
-        "linkTwo":"https://www.youtube.com/watch?v=v4XtBiWgXLE",
-        "product3":"Piano Man Billy Joe",
-        "idThree":"Piano Man Billy Joe",
-        "altThree":"Piano Man Billy Joe",
-        "srcThree":"./pic/musicbutton.png",
-        "titleThree":"6",
-        "aboutServiceThree":"Song 6",
-        "linkThree":"https://www.youtube.com/watch?v=gxEPV4kolz0" 
-        }
+        "titleOne":"2",
+        "idOne":"",
+        "aboutServiceOne":"Song 2",
+        "linkOne":"https://www.youtube.com/watch?v=BMGMUTQ2vSg"
+        },
+        {
+        "product1":"Let's Twist again like we did last summer",
+        "alt":"Let's Twist again like we did last summer",
+        "src":"./pic/musicbutton.png",
+        "titleOne":"3",
+        "idOne":"",
+        "aboutServiceOne":"Song 3",
+        "linkOne":"https://www.youtube.com/watch?v=TaT6pKVnBdI"
+        },
+        {
+         "product1":"",
+         "alt":"Polka",
+         "src":"./pic/musicbutton.png",
+         "titleOne":"1",
+        "idOne":"",
+         "aboutServiceOne":"Song 4",
+        "linkOne":"https://www.youtube.com/watch?v=fk7AeAk7Um8"
+        },
+        {
+        "product1":"",
+        "alt":"Polka",
+        "src":"./pic/musicbutton.png",
+        "titleOne":"1",
+         "idOne":"",
+        "aboutServiceOne":"Song 5",
+        "linkOne":"https://www.youtube.com/watch?v=fk7AeAk7Um8"
+         },
+         {
+         "product1":"Elvira",
+         "alt":"Polka",
+         "src":"./pic/musicbutton.png",
+         "titleOne":"1",
+         "idOne":"",
+         "aboutServiceOne":"Song 6",
+         "linkOne":"https://www.youtube.com/watch?v=fXZVtwunAzo"
+        },
+        {
+            "product1":" Bobbie Sue  Oak Ridge Boys",
+            "alt":"Polka",
+            "src":"./pic/musicbutton.png",
+            "titleOne":"1",
+            "idOne":"",
+            "aboutServiceOne":"Song 7",
+            "linkOne":"https://www.youtube.com/watch?v=JWBuVv8IQfI"
+         },
+         {
+            "product1":" Hello Mary Lou",
+            "alt":"Polka",
+            "src":"./pic/musicbutton.png",
+            "titleOne":"1",
+            "idOne":"",
+            "aboutServiceOne":"Song 8",
+            "linkOne":"https://www.youtube.com/watch?v=JWBuVv8IQfI"
+         },
+         {
+            "product1":"Do you know you are my Sunshine ",
+            "alt":"Polka",
+            "src":"./pic/musicbutton.png",
+            "titleOne":"1",
+            "idOne":"",
+            "aboutServiceOne":"Song 9",
+            "linkOne":"https://www.youtube.com/watch?v=JWBuVv8IQfI"
+         },
+         {
+            "product1":"Thank You World  (Live  in U S 2003) Statler Bros",
+            "alt":"Polka",
+            "src":"./pic/musicbutton.png",
+            "titleOne":"1",
+            "idOne":"",
+            "aboutServiceOne":"Song 10",
+            "linkOne":"https://www.youtube.com/watch?v=JWBuVv8IQfI"
+         },
+         {
+            "product1":" Let's Dance Ray Coniff ",
+            "alt":"Polka",
+            "src":"./pic/musicbutton.png",
+            "titleOne":"1",
+            "idOne":"",
+            "aboutServiceOne":"Song 11",
+            "linkOne":"https://www.youtube.com/watch?v=JWBuVv8IQfI"
+         },{
+            "product1":"Honky Tonk Pete Fountain",
+            "alt":"Polka",
+            "src":"./pic/musicbutton.png",
+            "titleOne":"1",
+            "idOne":"",
+            "aboutServiceOne":"Song 12",
+            "linkOne":"https://www.youtube.com/watch?v=JWBuVv8IQfI"
+         },
+         {
+            "product1":" Meme Ray Coniff ",
+            "alt":"Polka",
+            "src":"./pic/musicbutton.png",
+            "titleOne":"1",
+            "idOne":"",
+            "aboutServiceOne":"Song 13",
+            "linkOne":"https://www.youtube.com/watch?v=fk7AeAk7Um8"
+            },
+          {
+            "product1":"The Way we were  Barbra Striesand ",
+            "alt":"Polka",
+            "src":"./pic/musicbutton.png",
+            "titleOne":"1",
+            "idOne":"",
+            "aboutServiceOne":"Song 14",
+            "linkOne":"https://www.youtube.com/watch?v=fk7AeAk7Um8"
+            },
+            {
+                "product1":"That's What Friends are for  ( on Vevo) Dionne Warwick, Elton John  Stevie Wonder  Gladys Knight  ",
+                "alt":"Polka",
+                "src":"./pic/musicbutton.png",
+                "titleOne":"1",
+                "idOne":"",
+                "aboutServiceOne":"Song 15",
+                "linkOne":"https://www.youtube.com/watch?v=fk7AeAk7Um8"
+                }
+        
+        
        
 
     ]
