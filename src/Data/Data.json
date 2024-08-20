@@ -1,7 +1,7 @@
 {
     "general":{
-        "title": "Green Bay Gordy",
-        "location":"Lakeville MN"
+        "title": "Aquinas High School ",
+        "location":"Lacrosse Wisconsin"
     },
  "contactLogo":{
     "contactPC":[
@@ -16,14 +16,14 @@
     ]
 },
 "home":{
-    "title": "Green Bay Gordy",
+    "title": "Class of 1962",
     "about": "If you are seeing this it is party time !!!!!"
     
     
 
 },
 "logo":[
-    {"title":"Party play List", "alt":"Gordy Play List","src":"./pic/gordylogo.png"}
+    {"title":"Party play List", "alt":"Gordy Play List","src":"./pic/schoollogogordy.png"}
 ],
 
    

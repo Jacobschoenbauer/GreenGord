@@ -12,9 +12,9 @@ const item = data.items.map(
       product1,
       aboutServiceOne,
       idOne,
-      title,
-      alt,
-      src,
+      // title,
+      // alt,
+      // src,
       linkOne
      
     },
@@ -23,9 +23,10 @@ const item = data.items.map(
     <div key={index} className="">
       <div>
         <section className="buttonHome">
-          <div>{product1}</div>
-          <Link id={idOne} className="" to={linkOne}>
-            <img title={title} className="item-pic-about" src={src} alt={alt} />
+          {/* <div>{product1}</div> */}
+          <Link id={idOne} className="musicButton" to={linkOne}>
+          {/* <img title={title} className="item-pic-about" src={src} alt={alt} /> */}
+          <div className="insideLook">{product1}</div>
           </Link>
           <div>{aboutServiceOne}</div>
         </section>

@@ -8,14 +8,14 @@
   background-color: #2c332f;
 }
 .navTitle {
-  color: #7c7c7a;
+  color: #D59F0F;
   font-size: 80%;
 }
 .holder{
   font-size: 80%;
 }
 .nav-flex {
-  background-color: #2c332f;
+  background-color: #343F64;
   display: flex;
   align-items: center;
   position: fixed;
@@ -38,7 +38,7 @@
   align-items: center;
 }
 .dropbtn {
-  background-color: #2c332f;
+  background-color: #343F64;
   color: white;
   border-radius: 10px;
   font-size: 16px;
@@ -84,7 +84,7 @@
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
-  background-color: #131413;
+  background-color: #343F64;
 }
 .hamCss {
   height: 30px;
@@ -106,6 +106,18 @@
 }
 .buttonHome{
   margin: 30px;
+}
+.musicButton{
+  display: flex;
+
+}
+.insideLook{
+  height: 100px;
+  width: 200px;
+  text-align: center ;
+  color: #D59F0F;
+  
+  background-color: #343F64;
 }
 .home-link{
   color: #efecec;
@@ -131,7 +143,7 @@
 }
 /* Footer */
 .footer {
-  background-color:#263339;
+  background-color:#343F64;
 }
 .font-footer{
   
