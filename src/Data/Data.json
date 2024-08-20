@@ -79,7 +79,7 @@
         },
         {
         "product1":"Jimmy Buffett - Margaritaville",
-        "alt":"Polka",
+        "alt":"Jimmy Buffett - Margaritaville",
         "src":"./pic/musicbutton.png",
         "titleOne":"6",
          "idOne":"",
@@ -88,7 +88,7 @@
          },
          {
          "product1":"Elvira",
-         "alt":"Polka",
+         "alt":"Elvira",
          "src":"./pic/musicbutton.png",
          "titleOne":"7",
          "idOne":"",
@@ -97,7 +97,7 @@
         },
         {
             "product1":" Bobbie Sue  Oak Ridge Boys",
-            "alt":"Polka",
+            "alt":" Bobbie Sue  Oak Ridge Boys",
             "src":"./pic/musicbutton.png",
             "titleOne":"8",
             "idOne":"",
@@ -106,7 +106,7 @@
          },
          {
             "product1":" Hello Mary Lou",
-            "alt":"Polka",
+            "alt":"Hello Mary Lou",
             "src":"./pic/musicbutton.png",
             "titleOne":"9",
             "idOne":"",
@@ -115,7 +115,7 @@
          },
          {
             "product1":"Do you know you are my Sunshine ",
-            "alt":"Polka",
+            "alt":"Do you know you are my Sunshine",
             "src":"./pic/musicbutton.png",
             "titleOne":"10",
             "idOne":"",
@@ -124,7 +124,7 @@
          },
          {
             "product1":"Thank You World  (Live  in U S 2003) Statler Bros",
-            "alt":"Polka",
+            "alt":"Thank You World  (Live  in U S 2003) Statler Bros",
             "src":"./pic/musicbutton.png",
             "titleOne":"11",
             "idOne":"",
@@ -133,7 +133,7 @@
          },
          {
             "product1":" Let's Dance Ray Coniff ",
-            "alt":"Polka",
+            "alt":" Let's Dance Ray Coniff",
             "src":"./pic/musicbutton.png",
             "titleOne":"12",
             "idOne":"",
@@ -142,7 +142,7 @@
          },
          {
             "product1":"Honky Tonk Pete Fountain",
-            "alt":"Polka",
+            "alt":"Honky Tonk Pete Fountain",
             "src":"./pic/musicbutton.png",
             "titleOne":"13",
             "idOne":"",
@@ -169,7 +169,7 @@
                 },
           {
             "product1":"The Way we were  Barbra Striesand ",
-            "alt":"Polka",
+            "alt":"The Way we were  Barbra Striesand",
             "src":"./pic/musicbutton.png",
             "titleOne":"16",
             "idOne":"",
@@ -177,8 +177,8 @@
             "linkOne":"https://www.youtube.com/watch?v=_T04vNRh5xw"
             },
             {
-                "product1":"That's What Friends are for  ( on Vevo) Dionne Warwick, Elton John  Stevie Wonder  Gladys Knight  ",
-                "alt":"Polka",
+                "product1":"That's What Friends are for Dionne Warwick, Elton John  Stevie Wonder  Gladys Knight  ",
+                "alt":"That's What Friends are for Dionne Warwick, Elton John  Stevie Wonder  Gladys Knight",
                 "src":"./pic/musicbutton.png",
                 "titleOne":"17",
                 "idOne":"",
