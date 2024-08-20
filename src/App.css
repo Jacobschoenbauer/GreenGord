@@ -244,6 +244,10 @@ justify-content: center;
     width: 30px;
 
   }
+  .homeTitle{
+    text-align: center;
+    font-size: 200%;
+  }
   /* Footer */
   .footer-grid {
     padding: 10px;
