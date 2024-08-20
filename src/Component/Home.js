@@ -46,6 +46,7 @@ export default class Home extends Component {
         <section>
           <div>{logo}</div>
         </section>
+        <div className="homeBack">
         <section className="home-nav">
           <Link className="home-link" to="/">
             Home
@@ -59,6 +60,7 @@ export default class Home extends Component {
         </section>
         <h1>{title}</h1>
         <div className="home-about">{about}</div>
+        </div>
         <section className="home-item-main">{item}</section>
       </div>
     );

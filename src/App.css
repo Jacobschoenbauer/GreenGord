@@ -128,9 +128,7 @@ justify-content: center;
   color: white; 
   font-size: 160%;
 }
-.home-link{
-  color: #efecec;
-}
+
 .home-logo-container {
   text-align: center;
 }
@@ -138,6 +136,18 @@ justify-content: center;
   display: flex;
   width: 50%;
   justify-content: space-evenly;
+ 
+}
+.homeBack{
+  background-color: #f1f1f1;
+  display: flex;
+  height: 250px;
+  width: 50%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #343F64;
+
 }
 .home-about {
   width: 75%;
