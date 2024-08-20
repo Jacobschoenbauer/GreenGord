@@ -132,6 +132,9 @@ justify-content: center;
 .home-logo-container {
   text-align: center;
 }
+.homeTitle{
+  font-size: 50%;
+}
 .home-nav {
   display: flex;
   width: 50%;

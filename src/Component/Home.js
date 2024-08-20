@@ -47,18 +47,8 @@ export default class Home extends Component {
           <div>{logo}</div>
         </section>
         <div className="homeBack">
-        <section className="home-nav">
-          <Link className="home-link" to="/">
-            Home
-          </Link>
-          <Link className="home-link" to="/catalog">
-            Catalog
-          </Link>
-          <Link className="home-link" to="/contact">
-            Contact
-          </Link>
-        </section>
-        <h1>{title}</h1>
+        
+        <h1 homeTitle>{title}</h1>
         <div className="home-about">{about}</div>
         </div>
         <section className="home-item-main">{item}</section>
