@@ -98,6 +98,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-image: url("./pages/backgroundpic/schoollogogordy.png");
+ 
 }
 .home-logo {
   height: 70%;
@@ -109,15 +111,22 @@
 }
 .musicButton{
   display: flex;
-
+justify-content: center;
 }
 .insideLook{
-  height: 100px;
-  width: 200px;
-  text-align: center ;
-  color: #D59F0F;
-  
+  display: flex;
+  height: 200px;
+  width: 50%;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+ 
+  border-radius: 30%;
   background-color: #343F64;
+}
+.productButton{
+  color: white; 
+  font-size: 160%;
 }
 .home-link{
   color: #efecec;
