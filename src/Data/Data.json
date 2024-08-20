@@ -25,6 +25,10 @@
 "logo":[
     {"title":"Party play List", "alt":"Gordy Play List","src":"./pic/Aquinas_lightning_logo.webp"}
 ],
+"logo2":[
+    {"title":"Party play List", "alt":"Gordy Play List","src":"./pic/gordylogo.png"}
+],
+
 
    
     "items":[

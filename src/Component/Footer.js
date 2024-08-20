@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import data from "../Data/Data.json";
 
-const logo = data.logo.map(({ title, alt, src }, index) => (
+const logo2 = data.logo2.map(({ title, alt, src }, index) => (
   <img key={index} title={title} className="logo-footer" src={src} alt={alt} />
 ));
 
@@ -14,7 +14,7 @@ export default class Footer extends Component {
       <div className="footer">
         <div className="footer-grid">
           <h2 className="title-footer font-footer">{title}</h2>
-          <div className="footer-image-logo">{logo}</div>
+          <div className="footer-image-logo">{logo2}</div>
           <section>
             <div className="word-location font-footer">Location</div>
             <div className="location-footer font-footer">{location}</div>
