@@ -248,6 +248,10 @@ justify-content: center;
     text-align: center;
     font-size: 200%;
   }
+  .productButton {
+    color: white;
+    font-size: 100%;
+}
   /* Footer */
   .footer-grid {
     padding: 10px;
