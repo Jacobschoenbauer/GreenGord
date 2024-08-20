@@ -48,7 +48,7 @@ export default class Home extends Component {
         </section>
         <div className="homeBack">
         
-        <h1 homeTitle>{title}</h1>
+        <h1 className="homeTitle">{title}</h1>
         <div className="home-about">{about}</div>
         </div>
         <section className="home-item-main">{item}</section>

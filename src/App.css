@@ -133,7 +133,8 @@ justify-content: center;
   text-align: center;
 }
 .homeTitle{
-  font-size: 50%;
+  text-align: center;
+  font-size: 350%;
 }
 .home-nav {
   display: flex;
