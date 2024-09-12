@@ -33,6 +33,33 @@
    
     "items":[
         {
+            "product1":"RayConniff",
+            "alt":"RayConniff",
+            "src":"./pic/musicbutton.png",
+            "titleOne":"Extra",
+            "idOne":"",
+            "aboutServiceOne":"Start of the party",
+            "linkOne":"https://www.youtube.com/watch?v=c57SF81yqv0&list=PLAzFG9NVuYFMtTk9GswjUlSfWWmwSdKop"
+         },
+        {
+            "product1":"NEIL DIAMOND sweet caroline MSG new YORK 2008",
+            "alt":"NEIL DIAMOND sweet caroline MSG new YORK 2008",
+            "src":"./pic/musicbutton.png",
+            "titleOne":"Extra",
+            "idOne":"",
+            "aboutServiceOne":"Start of the party",
+            "linkOne":"https://www.youtube.com/watch?v=NdYKQMS0n4Q"
+         },
+        {
+            "product1":"Greatest Hits Of The 60s Best Of 60s Songs",
+            "alt":"Greatest Hits Of The 60s Best Of 60s Songs",
+            "src":"./pic/musicbutton.png",
+            "titleOne":"Extra",
+            "idOne":"",
+            "aboutServiceOne":"Start of the party",
+            "linkOne":"https://www.youtube.com/watch?v=WStvRDdxdWY"
+         },
+        {
             "product1":"1962 in One Hour",
             "alt":"1962 in One Hour",
             "src":"./pic/musicbutton.png",
